@@ -1,0 +1,146 @@
+[
+  {
+    "key": 1,
+    "title": "The Mandalorian",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 2,
+    "title": "The Child",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 3,
+    "title": "The Sin",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 4,
+    "title": "Sanctuary",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 5,
+    "title": "The Gunslinger",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 6,
+    "title": "The Prisoner",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 7,
+    "title": "The Reckoning",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 8,
+    "title": "The Redemption",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 9,
+    "title": "The Marshal",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 10,
+    "title": "The Passenger",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 11,
+    "title": "The Heiress",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 12,
+    "title": "The Siege",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 13,
+    "title": "The Jedi",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 14,
+    "title": "The Tragedy",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 15,
+    "title": "The Believer",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 16,
+    "title": "The Rescue",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 17,
+    "title": "The Apostate",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 18,
+    "title": "The Mines of Mandalore",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 19,
+    "title": "The Convert",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 20,
+    "title": "The Foundling",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 21,
+    "title": "The Pirate",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 22,
+    "title": "Guns for Hire",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 23,
+    "title": "The Spies",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  },
+  {
+    "key": 24,
+    "title": "The Return",
+    "price": 15,
+    "characters": ["Din Djarin", "Grogu"]
+  }
+]
